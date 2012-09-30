@@ -1,0 +1,48 @@
+ 1  192.168.1.1 (192.168.1.1)  4.584 ms  4.553 ms  1.782 ms
+ 2  cpe-68-173-228-1.nyc.res.rr.com (68.173.228.1)  155.801 ms  99.312 ms  101.042 ms
+ 3  cpe-24-168-135-177.nj.res.rr.com (24.168.135.177)  120.640 ms  42.057 ms  54.005 ms
+ 4  184-152-112-63.nyc.rr.com (184.152.112.63)  15.588 ms  13.302 ms  26.918 ms
+ 5  bun6-nycmnytg-rtr002.nyc.rr.com (24.29.148.250)  15.939 ms * *
+ 6  ae-4-0.cr0.nyc30.tbone.rr.com (66.109.6.78)  86.207 ms  55.294 ms  16.078 ms
+ 7  ae-1-0.pr0.nyc30.tbone.rr.com (66.109.6.161)  15.944 ms  14.000 ms
+    107.14.19.153 (107.14.19.153)  15.835 ms
+ 8  xe-7-2-0.edge2.newark1.level3.net (4.59.20.33)  48.023 ms
+    xe-11-0-2.edge2.newark1.level3.net (4.30.135.153)  65.764 ms
+    xe-4-2-0.edge2.newark1.level3.net (4.59.20.157)  66.410 ms
+ 9  ae-32-52.ebr2.newark1.level3.net (4.69.156.62)  53.975 ms  49.238 ms  66.241 ms
+10  ae-4-4.ebr2.washington1.level3.net (4.69.132.101)  57.244 ms  52.762 ms  45.950 ms
+11  ae-72-72.csw2.washington1.level3.net (4.69.134.150)  53.998 ms
+    ae-62-62.csw1.washington1.level3.net (4.69.134.146)  106.760 ms
+    ae-72-72.csw2.washington1.level3.net (4.69.134.150)  66.117 ms
+12  ae-4-90.edge3.washington4.level3.net (4.69.149.210)  106.996 ms  136.488 ms
+    ae-2-70.edge3.washington4.level3.net (4.69.149.82)  168.994 ms
+13  facebook-in.edge3.washington4.level3.net (4.53.116.78)  69.597 ms
+    facebook-in.edge3.washington4.level3.net (4.53.116.6)  77.585 ms
+    facebook-in.edge3.washington4.level3.net (4.53.116.50)  47.038 ms
+14  ae1.bb01.iad2.tfbnw.net (204.15.20.54)  79.632 ms
+    ae1.bb02.iad2.tfbnw.net (74.119.77.146)  68.659 ms
+    ae1.bb01.iad2.tfbnw.net (204.15.20.54)  117.403 ms
+15  ae9.bb04.frc1.tfbnw.net (31.13.24.86)  109.974 ms
+    ae9.bb03.frc1.tfbnw.net (31.13.24.80)  136.812 ms
+    ae9.bb04.frc1.tfbnw.net (31.13.24.86)  120.814 ms
+16  ae3.dr03.frc1.tfbnw.net (31.13.27.59)  73.703 ms
+    ae39.dr01.frc1.tfbnw.net (31.13.27.55)  48.056 ms  57.526 ms
+17  po1019.csw09c.frc1.tfbnw.net (31.13.26.135)  122.616 ms
+    po1021.csw09b.frc1.tfbnw.net (31.13.26.239)  136.689 ms
+    po1019.csw09c.frc1.tfbnw.net (31.13.26.135)  76.743 ms
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+31  * * *
+32  * * *
+33  * *
